@@ -1,0 +1,14 @@
+{
+      name:MemCho;
+      description: MemCho from Oshi No Ko;
+      authors: [
+      {
+              name: Glitchy21;
+              id:      485036491790090271;
+      }
+],
+spec:   2;
+semanticColors:    {
+                             "HEADER_PRIMARY":     ["#FFE100",    "#FFE100",    "#FFE100"]
+                                   },
+  }
