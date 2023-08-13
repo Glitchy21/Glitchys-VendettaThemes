@@ -1,14 +1,30 @@
 {
-      name:MemCho;
-      description: MemCho from Oshi No Ko;
-      authors: [
-      {
-              name: Glitchy21;
-              id:      485036491790090271;
-      }
+	name:MemCho;
+	description: memcho theme;
+	authors: [ 
+	{
+			name: Glitchy21;
+		  id: 485036491790090271;
+	}
 ],
-spec:   2;
-semanticColors:    {
-                             "HEADER_PRIMARY":     ["#FFE100",    "#FFE100",    "#FFE100"]
-                                   },
-  }
+spec: 2;
+semanticColors: { 
+							"HEADER_PRIMARY":  ["#00B3FF", "#00B3FFE", "#00B3FF"]
+							"HEADER_SECONDARY":  ["#0084BD", "#0084BD", "#0084BD"]
+							"TEXT_MUTED":  ["#029FC2", "#029FC2", "#029FC2"]
+							"TEXT_LINK":  ["#FF002F", "#FF002F", "#FF002F"]
+							"INTERACTIVE_NORMAL":  ["#02B2F7", "#02B2F7", "#02B2F7"]
+							"INTERACTIVE_HOVER":  ["#02F1F5", "#02F1F5", "#02F1F5"]
+							"INTERACTIVE_MUTED":  ["#8F5E01", "#8F5E01", "#8F5E01"]
+							"BACKGROUND_PRIMARY":  ["#634101", "#634101", "#634101"]
+									                 
+};
+rawColors: { 
+					"PRIMARY_500": "#9E8376"
+},
+"background": {
+    "blur": 0.6,
+    "url": "https://media.discordapp.net/attachments/983864829477552188/1139059389517529108/MEM-Cho.full.3949912.jpg?width=368&height=670",
+    "alpha": 0.4
+    },
+}
