@@ -9,13 +9,13 @@
 ],
 spec: 2;
 semanticColors: { 
-							"HEADER_PRIMARY":  ["#00B3FF", "#00B3FFE", "#00B3FF"]
-							"HEADER_SECONDARY":  ["#0084BD", "#0084BD", "#0084BD"]
-							"TEXT_MUTED":  ["#029FC2", "#029FC2", "#029FC2"]
-							"TEXT_LINK":  ["#FF002F", "#FF002F", "#FF002F"]
-							"INTERACTIVE_NORMAL":  ["#02B2F7", "#02B2F7", "#02B2F7"]
-							"INTERACTIVE_HOVER":  ["#02F1F5", "#02F1F5", "#02F1F5"]
-							"INTERACTIVE_MUTED":  ["#8F5E01", "#8F5E01", "#8F5E01"]
+							"HEADER_PRIMARY":  ["#00B3FF", "#00B3FFE", "#00B3FF"],
+							"HEADER_SECONDARY":  ["#0084BD", "#0084BD", "#0084BD"],
+							"TEXT_MUTED":  ["#029FC2", "#029FC2", "#029FC2"],
+							"TEXT_LINK":  ["#FF002F", "#FF002F", "#FF002F"],
+							"INTERACTIVE_NORMAL":  ["#02B2F7", "#02B2F7", "#02B2F7"],
+							"INTERACTIVE_HOVER":  ["#02F1F5", "#02F1F5", "#02F1F5"],
+							"INTERACTIVE_MUTED":  ["#8F5E01", "#8F5E01", "#8F5E01"],
 							"BACKGROUND_PRIMARY":  ["#634101", "#634101", "#634101"]
 									                 
 };
